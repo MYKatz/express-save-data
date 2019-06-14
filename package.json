@@ -12,5 +12,12 @@
     "save-data"
   ],
   "author": "Matt Katz",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "sinon": "^7.3.2"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
 }
