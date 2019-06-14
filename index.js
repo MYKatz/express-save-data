@@ -11,5 +11,4 @@ module.exports = function(req, res, next) {
             req.saveData = req.dataSaver;
         }
         next()
-    }
 }
