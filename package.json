@@ -1,6 +1,6 @@
 {
   "name": "express-save-data",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Express middleware to check \"data saver\" header on requests",
   "main": "index.js",
   "scripts": {
