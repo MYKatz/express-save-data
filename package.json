@@ -1,0 +1,16 @@
+{
+  "name": "express-save-data",
+  "version": "0.0.1",
+  "description": "Express middleware to check \"data saver\" header on requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "chrome",
+    "save-data"
+  ],
+  "author": "Matt Katz",
+  "license": "ISC"
+}
