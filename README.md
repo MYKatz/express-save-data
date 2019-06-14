@@ -1,6 +1,8 @@
 # express-save-data
 
-Express middleware to check \"data saver\" header on requests
+Express middleware to check \"data saver\" header on requests. This header is currently used in the Chrome, Opera, and Yandex browsers.
+
+For more [click here](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/save-data/)
 
 ## Install
 
